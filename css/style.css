@@ -1,0 +1,7 @@
+body {
+    background: url("../2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    color: seashell;
+}
